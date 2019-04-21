@@ -1,2 +1,0 @@
-People  == Dog
-ZZ违反

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">极客新闻</string>
+    <string name="login">登录</string>
+    <string name="zhihu">知乎日报</string>
+    <string name="wechat">微信精选</string>
+    <string name="gank">干货集中营</string>
+    <string name="gold">稀土掘金</string>
+    <string name="v2ex">V2EX</string>
+    <string name="collect">收藏</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="info">资讯</string>
+    <string name="options">选项</string>
+    <string name="dailyNews">日报</string>
+    <string name="sections">专栏</string>
+    <string name="hot">热门</string>
+</resources>
